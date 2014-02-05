@@ -1,6 +1,6 @@
-def square(a,b):
-    answer =  a**b
+def square(a):
+    answer =  a*a
     return (answer)
 
-print (square(12,2))
+print (square(12))
 #expected outcome is 144
